@@ -1,0 +1,97 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+*.sdf
+*.ddc
+
+/content/startercontent/
+/content/examples/
+/intermediate/
+/Plugins/**/Intermediate/
+/saved/
+/Binaries/
+*.bin
+*.log
+Build/Receipts/Waves-Win64-Development.target.xml
+Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
+*.opensdf
+Waves.opensdf
+*.log
+Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
+
+*.VC.opendb
+*.VC.db
+*.log
+Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
+*.TGA
+*.cppcheck
+*.log
+.vs/Waves/v14/.suo
+*.modules
+*.log
+*.ipch
+*.dll
+*.pdb
+*.response
+*.prev
+*.pdb
+*.modules
+*.obj
+*.exp
+*.lib
+*.lock
+*.ide
+*.ide-wal
+*.db-shm
+*.db-wal
+*.ide-shm
+*.log
+Content/ShapesFX_Pack/DemoRoom/ThirdPersonBP/Maps/DemoMap_BuiltData.uasset
+*.json
+Plugins/BlueprintAssist/NodeSizeCache/14BECB894236511A2BC7A1BE9BFAA080.json
+.idea/.idea.Waves/.idea/workspace.xml
